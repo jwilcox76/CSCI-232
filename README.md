@@ -1,2 +1,4 @@
-# CSCI-232
-This repo contains Java programs that I worked on for the CSCI-232 course
+# Java Programs for CSCI-232
+
+The programs contained in this repo are exclusively the class projects
+assigned in CSCI-232 (Data Structures and Algorithms)
